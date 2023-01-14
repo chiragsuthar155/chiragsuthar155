@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)](https://github.com/chiragsuthar155.github.io)
+![Screenshot (280)](https://user-images.githubusercontent.com/94690296/212488837-f0f201be-1c72-4ed8-9915-71a1a8c97ea2.png)
 <h1 align="center">Hi 👋, I'm Chirag Suthar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
