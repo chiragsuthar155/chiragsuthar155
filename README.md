@@ -38,6 +38,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chiragsuthar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee chirag" /></a></p>
 <br>
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats-smoky-phi-42.vercel.app/api/top-langs?username=chiragsuthar155&show_icons=true&locale=en&layout=compact" alt="chiragsuthar155" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats-smoky-phi-42.vercel.app/api?username=chiragsuthar155&show_icons=true&locale=en" alt="chiragsuthar155" /></p>
