@@ -37,9 +37,9 @@
 
 <h3>Live Projects: </h3>
 <p>
-<a href="https://csquotes.netlify.com/" target="_blank" rel="noreferrer">Quote Generator</a><br>
-<a href="https://csmovies.netlify.com/" target="_blank" rel="noreferrer">Movie App</a><br>
-<a href="https://chiragsuthar155.github.io/Project_12019423" target="_blank" rel="noreferrer">OS Blog</a>
+<a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer">Quote Generator</a><br>
+<a href="https://csmovies.netlify.com/" target="blank" rel="noreferrer">Movie App</a><br>
+<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer">OS Blog</a>
 </p>
 
 <h3 align="left">Support:</h3>
