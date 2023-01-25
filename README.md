@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Search Engine, ChatApp**
 
-- 🌱 I’m currently learning **React Native, Data Structure And Algorithms**
+- 🌱 I’m currently learning **React JS, Data Structure And Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chiragsuthar155](https://github.com/chiragsuthar155)
 
-- 💬 Ask me about **HTML, CSS, JS, REACTJS**
+- 💬 Ask me about **Javascript, Web Designing, Bootstrap**
 
 - 📫 How to reach me **chiragsuthar2001@gmail.com**
 
