@@ -43,6 +43,12 @@
 <a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer">OS Blog 💻</a>
 </p>
 
+<h3>My Personal Favourites: </h3>
+<p>
+<a href="https://tunecast.netlify.com/" target="blank" rel="noreferrer">Tunecast🎧</a><br>
+<a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer">HappySearch🔍</a><br>
+</p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chiragsuthar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee chirag" /></a></p>
 <br>
