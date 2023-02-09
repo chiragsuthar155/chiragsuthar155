@@ -39,13 +39,13 @@
 
 <h3>Live Projects: </h3>
 <p align="left">
-<a href="https://tunecast.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(73).png"/></a>
-<a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(74).png"/></a>
-<a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(75).png"/></a>
+<a href="https://tunecast.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(73).png"/></a>
+<a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(74).png"/></a>
+<a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(75).png"/></a>
 <br>
-<a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(72).png"/></a>
-<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(69).png"/></a>
- <a href="https://csmovies.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="270"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(76).png"/></a>
+<a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(72).png"/></a>
+<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(69).png"/></a>
+ <a href="https://csmovies.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="280"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(76).png"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
