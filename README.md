@@ -37,18 +37,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
 <h3>Live Projects: </h3>
-
-<p>
-<a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer">Quote Generator 💬</a><br>
-<a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer">BookStore 📚</a><br>
-<a href="https://csmovies.netlify.com/" target="blank" rel="noreferrer">Movie App 🍿</a><br>
-<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer">OS Blog 💻</a>
-</p>
-
-<h3>My Personal Favourites: </h3>
-<p>
-<a href="https://tunecast.netlify.com/" target="blank" rel="noreferrer">Tunecast🎧</a><br>
-<a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer">HappySearch🔍</a><br>
+<p align="left">
+<a href="https://tunecast.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="300"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(73).png"/></a>
+<a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="300"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(74).png"/></a>
+<a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer"><img alt="Coding"  width="300"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(75).png"/></a>
+<br>
+<a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="300"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(72).png"/></a>
+<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer"><img alt="Coding"  width="300"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(69).png"/></a>
 </p>
 
 <h3 align="left">Support:</h3>
