@@ -1,4 +1,5 @@
 ![Screenshot (280)](https://user-images.githubusercontent.com/94690296/212488837-f0f201be-1c72-4ed8-9915-71a1a8c97ea2.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/94690296/217880611-3f4522d5-b50b-4926-a3dd-329b01cd4634.png)
 <h1 align="center">Hi 👋, I'm Chirag Suthar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
@@ -36,9 +37,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
 <h3>Live Projects: </h3>
-![Screenshot (73)](https://user-images.githubusercontent.com/94690296/217880611-3f4522d5-b50b-4926-a3dd-329b01cd4634.png)
+
 <p>
- <img align="right" alt="Coding"  width="400"  src="https://drive.google.com/drive/my-drive"/>
 <a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer">Quote Generator 💬</a><br>
 <a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer">BookStore 📚</a><br>
 <a href="https://csmovies.netlify.com/" target="blank" rel="noreferrer">Movie App 🍿</a><br>
