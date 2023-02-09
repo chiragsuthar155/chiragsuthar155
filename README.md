@@ -36,6 +36,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
 <h3>Live Projects: </h3>
+![Screenshot (73)](https://user-images.githubusercontent.com/94690296/217880611-3f4522d5-b50b-4926-a3dd-329b01cd4634.png)
 <p>
  <img align="right" alt="Coding"  width="400"  src="https://drive.google.com/drive/my-drive"/>
 <a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer">Quote Generator 💬</a><br>
