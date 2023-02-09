@@ -30,6 +30,7 @@
 <a href="https://www.leetcode.com/chiragsuthar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragsuthar2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chiragsuthar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chiragsuthar2001" height="30" width="40" /></a>
   <a href="https://fb.com/chirag suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirag suthar" height="30" width="40" /></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/ca6f5c97-9749-4722-aac2-6954188104b8" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="chirag_155" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
