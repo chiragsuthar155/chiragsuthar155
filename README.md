@@ -56,9 +56,9 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats-smoky-phi-42.vercel.app/api/top-langs?username=chiragsuthar155&show_icons=true&locale=en&layout=compact" alt="chiragsuthar155" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chiragsuthar155&show_icons=true&locale=en&layout=compact" alt="chiragsuthar155" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-smoky-phi-42.vercel.app/api?username=chiragsuthar155&show_icons=true&locale=en" alt="chiragsuthar155" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiragsuthar155&show_icons=true&locale=en" alt="chiragsuthar155" /></p>
 
 <br>
 
