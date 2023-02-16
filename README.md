@@ -46,7 +46,7 @@
 <br>
   <a href="https://chiragsuthar155.github.io/Book_Store/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(75).png"/></a>
 <a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(72).png"/></a>
-<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(69).png"/></a>
+<a href="https://chiragsuthar155.github.io/Project_12019423" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/project_1.png"/></a>
 <br>
    <a href="https://csmovies.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(76).png"/></a>
 </p>
