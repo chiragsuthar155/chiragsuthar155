@@ -39,7 +39,7 @@
 <h3>Live Projects: </h3>
 <p align="left">
 <a href="https://cs-shopify.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(82).png"/></a>
-  <a href="https://csmovies.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(76).png"/></a>
+  <a href="https://tunecast.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(73).png"/></a>
 <a href="https://happysearch.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(74).png"/></a>
 
 <br>
