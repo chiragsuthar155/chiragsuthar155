@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MusicPlayer, E-Commerce**
 
-- 🌱 I’m currently learning **React JS, Data Structure And Algorithms**
+- 🌱 I’m currently learning **DevOps, Data Structure And Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chiragsuthar155](https://github.com/chiragsuthar155)
 
