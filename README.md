@@ -36,7 +36,7 @@
 </p>
 
 
-<h3>Live Projects: </h3>
+<!-- <h3>Live Projects: </h3>
 <p align="left">
 <a href="https://cs-shopify.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(82).png"/></a>
   <a href="https://tunecast.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(73).png"/></a>
@@ -48,17 +48,4 @@
 <a href="https://csquotes.netlify.com/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/project_1.png"/></a>
 <br>
    <a href="https://csmovies.netlify.app/" target="blank" rel="noreferrer"><img alt="Coding"  width="275"  src="https://github.com/chiragsuthar155/chiragsuthar155/blob/main/Screenshot%20(76).png"/></a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chiragsuthar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee chirag" /></a></p>
-<br>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chiragsuthar155&show_icons=true&locale=en&layout=compact" alt="chiragsuthar155" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiragsuthar155&show_icons=true&locale=en" alt="chiragsuthar155" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsuthar155&" alt="chiragsuthar155" /></p>
+</p> -->
