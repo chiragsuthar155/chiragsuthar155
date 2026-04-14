@@ -1,7 +1,5 @@
-![Screenshot (280)](https://user-images.githubusercontent.com/94690296/212488837-f0f201be-1c72-4ed8-9915-71a1a8c97ea2.png)
-
 <h1 align="center">Hi 👋, I'm Chirag Suthar</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <img align="right" alt="Coding"  width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
@@ -9,17 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chirag_155" target="blank"><img src="https://img.shields.io/twitter/follow/chirag_155?logo=twitter&style=for-the-badge" alt="chirag_155" /></a> </p>
 
-- 🔭 I’m currently working on **MusicPlayer, E-Commerce**
-
-- 🌱 I’m currently learning **Linux, Git, Data Structure And Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chiragsuthar155](https://github.com/chiragsuthar155)
-
-- 💬 Ask me about **Javascript, Web Designing, Bootstrap**
+- 💬 Ask me about **Cloud, Kubernetes, Docker, CI/CD**
 
 - 📫 How to reach me **chiragsuthar2001@gmail.com**
-
-- ⚡ Fun fact **Humorous, Enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
